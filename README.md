@@ -1,8 +1,8 @@
 ### Salvee! Me chamo Leonardo Souza 👋
 
-- 🔭 Gerente Financeiro - Clinica Odontológica
+- 🔭 Em busca de oportunidades DEV
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
-- 👯 Adoro estudar linguagens Frontend
+- 👯 Curto muito estudar linguagens Frontend
 
 <div align="center">
   <a href="https://github.com/lms-souza">
